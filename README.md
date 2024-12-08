@@ -143,3 +143,6 @@ Please open issues if you have questions, problems and ideas. You can create pul
 requests directly if you want to fix little bugs, add small features and so on.
 But you'd better use issues first if you want to add a big feature or change a
 lot of code.
+
+By [Dmytro Nasyrov, Founder, CTO at Pharos Production Inc.](https://www.linkedin.com/in/dmytronasyrov/)
+And [Pharos Production Inc. - Web3, blockchain, fintech, defi software development services](https://pharosproduction.com)
